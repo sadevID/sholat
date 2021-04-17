@@ -32,3 +32,8 @@
     #prayer-container tbody td:nth-child(2) {
         text-align: right;
     }
+.sadev {
+    font-size: 12px;
+    margin: 15px 0 15px 0;
+}
+.sadev a {weight:600}
